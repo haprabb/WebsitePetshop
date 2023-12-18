@@ -1,4 +1,7 @@
 
+navbar{
+    background-color:bisque;
+}
 #atas img{
     margin-top: 10px;
     margin-left: 10px;
@@ -88,6 +91,7 @@
 }
 
 html, body {
+    color: antiquewhite;
     margin: 0;
     padding: 0;
     width: 100%;
